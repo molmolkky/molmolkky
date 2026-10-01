@@ -1,3 +1,7 @@
 ## Hi there 👋
 
-![https://github.com/molmolkky](https://komarev.com/ghpvc/?username=molmolkky&color=brightgreen)
+<p align="left">
+  <a href="https://github.com/molmolkky">
+    <img height="20" src="https://komarev.com/ghpvc/?username=molmolkky&color=brightgreen" />
+  </a>
+</p>
